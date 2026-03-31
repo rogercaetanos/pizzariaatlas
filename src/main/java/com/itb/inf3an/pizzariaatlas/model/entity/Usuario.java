@@ -50,7 +50,4 @@ public class Usuario {
     @Column(length = 20, name = "tipo_usuario", insertable = false, updatable = false)
     private TipoUsuario tipoUsuario;
 
-
-
-
 }

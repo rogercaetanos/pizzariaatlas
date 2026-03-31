@@ -16,4 +16,6 @@ public class Cliente extends Usuario {
 
 
     private int numeroPontos;
+
+
 }
